@@ -177,11 +177,11 @@ footer {
   .left-section,
   .right-section {
     width: 100%;
-    padding: 15px;
+    padding: 10px;
   }
 
   .right-section {
-    padding-left: 15px;
+    padding-left: 12px;
   }
 
   .left-section img {
@@ -200,3 +200,4 @@ footer {
     font-size: 22px;
   }
 }
+
